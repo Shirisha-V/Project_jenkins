@@ -1,4 +1,4 @@
-package Mindtree.Project_scriptss;
+/*package Mindtree.Project_scriptss;
 
 import static org.junit.Assert.assertTrue;
 
@@ -18,3 +18,4 @@ public class AppTest
         assertTrue( true );
     }
 }
+*/
